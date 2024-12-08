@@ -1,6 +1,7 @@
 # Hi there 👋
 I am a student of the study programme Integrated Master's Programme in Medical Technology,
 specialization physics.
+As of now, I am quite new to GitHub and would appreciate any tips and corrections if you see any obvious mistakes :)
 
 ## Education
 
