@@ -1,4 +1,40 @@
-## Hi there 👋
+# Hi there 👋
+I am a student of the study programme Integrated Master's Programme in Medical Technology,
+specialization physics.
+
+## Education
+
+- **Program**: Medical Technology
+- **University**: University of Bergen
+- **Year**: 2nd year
+
+## Interests
+
+- Physics of Medical Imaging
+- Medical Physics in Radiotherapy
+- Data analysis
+- Machine learning
+
+## Projects
+
+Throughout my studies, I have worked on various projects related to:
+
+- Predicting Hospital Stay Duration
+
+You can find my projects under the "Repositories" tab on my profile.
+
+## Skills
+
+- Programming: Python
+- Tools: Jupyter Notebooks
+- Data analysis and visualization
+
+## Contact
+
+For inquiries or collaboration, please reach out to me:
+
+- Email: shdyr2103@uib.no
+- LinkedIn: [https://www.linkedin.com/in/sheldon-dyrdal-865b2a2a9/](https://www.linkedin.com/in/sheldon-dyrdal-865b2a2a9/)
 
 <!--
 **sheldondyrdal/sheldondyrdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
