@@ -1,7 +1,3 @@
----
-title: About
----
-
 # Hi there 👋
 I am a student of the study programme Integrated Master's Programme in Medical Technology,
 specialization physics.
