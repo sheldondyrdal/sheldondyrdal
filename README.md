@@ -7,12 +7,12 @@ As of now, I am quite new to GitHub and would appreciate any tips and correction
 
 - **Program**: Medical Technology
 - **University**: University of Bergen
-- **Year**: 2nd year
+- **Year**: 3rd year
 
 ## Interests
 
-- Physics of Medical Imaging
-- Medical Physics in Radiotherapy
+- Medical Physics
+- Radiotherapy
 - Data analysis
 - Machine learning
 
