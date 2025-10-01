@@ -32,9 +32,7 @@ You can find my projects under the "Repositories" tab on my profile.
 
 ## Contact
 
-For inquiries or collaboration, please reach out to me:
-
-- Email: shdyr2103@uib.no
+- Email: dyrdalsheldon@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/sheldon-dyrdal-865b2a2a9/](https://www.linkedin.com/in/sheldon-dyrdal-865b2a2a9/)
 
 <!--
